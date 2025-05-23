@@ -1,34 +1,34 @@
-# Hi there! 👋
+# Olá! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juliomouraneto)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcfmneto@gmail.com)
 
 ---
 
-### My name is Júlio Cesar
+### Meu nome é Júlio Cesar
 
 (Java | Spring Boot | Docker | Node.js | Express | PostgreSQL | MySQL | MongoDB) 🚀
 
-🧑‍🎓 Student of **Analysis and Systems Development** at **PUCRS** (1st semester)  
-👨‍💻 Passionate about **Backend Development**  
-☕ Main stack: **Java + Spring Boot**  
-🌱 Also experienced with **Node.js + Express**  
-🐳 Comfortable with containers using **Docker**  
-🗄️ Works with both **SQL** (PostgreSQL, MySQL) and **NoSQL** (MongoDB) databases  
-📈 Constantly learning and evolving in backend technologies
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUCRS** (1º semestre)  
+💻 Desenvolvedor **Backend** com foco principal em **Java + Spring Boot**  
+🌱 Também tenho experiência com **Node.js + Express**  
+🐳 Conhecimentos em **Docker** para conteinerização de aplicações  
+🗄️ Trabalho com bancos de dados **SQL** (PostgreSQL, MySQL) e **NoSQL** (MongoDB)  
+📈 Sempre buscando evoluir e aprender novas tecnologias
 
 ---
 
-### 📌 Some of my projects
+### 📌 Alguns dos meus projetos
 
-- [**estoque-springboot-api**](https://github.com/Jcfmneto/estoque-springboot-api) – Stock management system using Spring Boot  
-- [**encurtador-url-api**](https://github.com/Jcfmneto/encurtador-url-api) – Simple URL shortener in Java  
-- [**controle-usuarios-api**](https://github.com/Jcfmneto/controle-usuarios-api) – User management with authentication  
-- [**ecommerce-node-api**](https://github.com/Jcfmneto/ecommerce-node-api) – E-commerce backend with Node.js  
-- [**postgres-node-api**](https://github.com/Jcfmneto/postgres-node-api) – Node.js + PostgreSQL API
+- [**estoque-springboot-api**](https://github.com/Jcfmneto/estoque-springboot-api) – Sistema de controle de estoque com Spring Boot  
+- [**encurtador-url-api**](https://github.com/Jcfmneto/encurtador-url-api) – API simples para encurtar URLs com Java  
+- [**controle-usuarios-api**](https://github.com/Jcfmneto/controle-usuarios-api) – API para gerenciamento e autenticação de usuários  
+- [**ecommerce-node-api**](https://github.com/Jcfmneto/ecommerce-node-api) – Backend de e-commerce usando Node.js  
+- [**postgres-node-api**](https://github.com/Jcfmneto/postgres-node-api) – Integração de Node.js com PostgreSQL
 
 ---
 
-### ⚙️ Technologies
+### ⚙️ Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -43,5 +43,5 @@
 ---
 
 <div align="center">
-  🚀 Always building, learning and looking for new challenges in backend development!
+  🚀 Em constante aprendizado e sempre em busca de novos desafios como desenvolvedor backend!
 </div>
