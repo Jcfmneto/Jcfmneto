@@ -1,7 +1,6 @@
 # Hi there! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juliomouraneto)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcfmneto@gmail.com)
 
 ---
 
