@@ -6,13 +6,13 @@
 
 ### Meu nome é Júlio Cesar
 
-(Java | Spring Boot | Docker | Node.js | Express | PostgreSQL | MySQL | MongoDB) 🚀
+(Java | Spring Boot | Docker | Node.js | Express | PostgreSQL | MongoDB) 🚀
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUCRS** (1º semestre)  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUCRS** (2º semestre)  
 💻 Desenvolvedor **Backend** com foco principal em **Java + Spring Boot**  
 🌱 Também tenho experiência com **Node.js + Express**  
 🐳 Conhecimentos em **Docker** para conteinerização de aplicações  
-🗄️ Trabalho com bancos de dados **SQL** (PostgreSQL, MySQL) e **NoSQL** (MongoDB)  
+🗄️ Trabalho com bancos de dados **SQL** (PostgreSQL) e **NoSQL** (MongoDB)  
 📈 Sempre buscando evoluir e aprender novas tecnologias
 
 ---
@@ -34,7 +34,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
