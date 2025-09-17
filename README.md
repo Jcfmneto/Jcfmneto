@@ -1,33 +1,27 @@
-# Olá! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juliomouraneto)
+# Hello\! 
 
----
+[](https://www.linkedin.com/in/juliomouraneto)
 
-### Meu nome é Júlio Cesar
+-----
 
-(Java | Spring Boot | Docker | Node.js | Express | PostgreSQL | MongoDB) 🚀
+### My name is Julio Cesar
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUCRS** (2º semestre)  
-💻 Desenvolvedor **Backend** com foco principal em **Java + Spring Boot**  
-🌱 Também tenho experiência com **Node.js + Express**  
-🐳 Conhecimentos em **Docker** para conteinerização de aplicações  
-🗄️ Trabalho com bancos de dados **SQL** (PostgreSQL) e **NoSQL** (MongoDB)  
-📈 Sempre buscando evoluir e aprender novas tecnologias
+I'm a **Backend Developer** focused on **Java** and **Spring Boot**. I also have experience with **React** and **Frontend** development.
 
----
+(Java | Spring Boot | Docker | Node.js | Express | PostgreSQL ) 🚀
 
-### 📌 Alguns dos meus projetos
+  * A student of **Systems Analysis and Development** at **PUCRS** (2nd semester)
+  * Main focus: **Backend** with **Java** and **Spring Boot**
+  * Experienced with **Node.js** and **Express**
+  * Knowledgeable in **Docker**
+  * Work with **SQL** databases (PostgreSQL)
 
-- [**estoque-springboot-api**](https://github.com/Jcfmneto/estoque-springboot-api) – Sistema de controle de estoque com Spring Boot  
-- [**encurtador-url-api**](https://github.com/Jcfmneto/encurtador-url-api) – API simples para encurtar URLs com Java  
-- [**controle-usuarios-api**](https://github.com/Jcfmneto/controle-usuarios-api) – API para gerenciamento e autenticação de usuários  
-- [**ecommerce-node-api**](https://github.com/Jcfmneto/ecommerce-node-api) – Backend de e-commerce usando Node.js  
-- [**postgres-node-api**](https://github.com/Jcfmneto/postgres-node-api) – Integração de Node.js com PostgreSQL
+-----
 
----
+### ⚙️ Technologies
 
-### ⚙️ Tecnologias
+-----
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -39,7 +33,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcfmneto&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff)
 
-<div align="center">
-  🚀 Em constante aprendizado e sempre em busca de novos desafios como desenvolvedor backend!
-</div>
+
+
+
