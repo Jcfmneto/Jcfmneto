@@ -34,5 +34,8 @@ I'm a **Backend Developer** focused on **Java** and **Spring Boot**. I also have
 
 ---
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Jcfmneto&layout=compact&langs_count=10
+
+
 
 
