@@ -33,8 +33,8 @@ I'm a **Backend Developer** focused on **Java** and **Spring Boot**. I also have
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcfmneto&layout=compact&langs_count=10)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Jcfmneto&layout=compact&langs_count=10
 
 
 
