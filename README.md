@@ -34,6 +34,7 @@ I'm a **Backend Developer** focused on **Java** and **Spring Boot**. I also have
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcfmneto&layout=compact&langs_count=10)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcfmneto)](https://github.com/Jcfmneto/github-readme-stats)
 
 
 
