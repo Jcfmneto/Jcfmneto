@@ -17,9 +17,5 @@ I'm a **Backend Developer** focused on **Java** and **Spring Boot**. I also have
   * Knowledgeable in **Docker**
   * Work with **SQL** databases (PostgreSQL)
 
------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jcfmneto&layout=compact&theme=vision-friendly-dark)](https://github.com/Jcfmneto/github-readme-stats)
-
-
 
 
